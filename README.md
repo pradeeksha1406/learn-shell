@@ -1,8 +1,5 @@
 # learn-shell
 
-this is first line
-
-This is pradeep trying to learn devops
-
-
-This is pradeep trying to learn devops
+This is my first project
+1 variables
+2 Data
